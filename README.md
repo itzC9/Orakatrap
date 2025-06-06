@@ -11,7 +11,7 @@ Orakatrap is a Roblox & Roblox VN launcher for Android, inspired by [Bloxstrap](
 
 ## Installation
 
-1. Download the [latest release of Orakatrap](https://github.com/FrosSky/Chevstrap/releases).
+1. Download the [latest release of Orakatrap](https://github.com/itzC9/Orakatrap/release).
 2. Install the APK on your Android device.
 3. Once installed, open Orakatrap and begin using it.
 
