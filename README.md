@@ -1,17 +1,3 @@
-<div align="center">
-
-![image](https://github.com/user-attachments/assets/c71c1da2-2e24-4b2e-8741-437ebc8bfeb8)
-![image](https://github.com/user-attachments/assets/f88408b8-8274-4321-874c-eed349124e24)
-
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/FrosSky/Chevstrap/total)
-![GitHub License](https://img.shields.io/github/license/FrosSky/Chevstrap)
-![GitHub Tag](https://img.shields.io/github/v/tag/FrosSky/Chevstrap)
-![Discord](https://img.shields.io/discord/1351674799411302531)
-
-----
-
-</div>
-
 > [!CAUTION]
 > The only official places to download Orakatrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
