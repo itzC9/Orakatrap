@@ -13,10 +13,10 @@
 </div>
 
 > [!CAUTION]
-> The only official places to download Chevstrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official places to download Orakatrap is this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
 
-# Chevstrap
-Chevstrap is a Roblox & Roblox VN launcher for Android, inspired by [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap).
+# Orakatrap
+Orakatrap is a Roblox & Roblox VN launcher for Android, inspired by [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap).
 ## Features
 
 - Adjust specific FFlags for testing
@@ -25,9 +25,9 @@ Chevstrap is a Roblox & Roblox VN launcher for Android, inspired by [Bloxstrap](
 
 ## Installation
 
-1. Download the [latest release of Chevstrap](https://github.com/FrosSky/Chevstrap/releases).
+1. Download the [latest release of Orakatrap](https://github.com/FrosSky/Chevstrap/releases).
 2. Install the APK on your Android device.
-3. Once installed, open Chevstrap and begin using it.
+3. Once installed, open Orakatrap and begin using it.
 
 ## Requirement
 - a Clone App (make sure it's trusted and only if you are not root)
@@ -38,9 +38,9 @@ Chevstrap is a Roblox & Roblox VN launcher for Android, inspired by [Bloxstrap](
 
 A: No, it's not a malware. The source code is viewable to all, so anyone can verify that it doesn’t do anything harmful. If anything was detected, that’s a false positive. Just make sure you’re downloading it from an official source
 
-#### Q: Can I get banned for using Chevstrap?
+#### Q: Can I get banned for using Orakatrap?
 
-A: No, it shouldn't. Chevstrap doesn't interact with the Roblox client and does not modify roblox client
+A: No, it shouldn't. Orakatrap doesn't interact with the Roblox client and does not modify roblox client
 
 #### Q: Can you add Discord Rich Presence?
 
